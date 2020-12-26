@@ -1,0 +1,38 @@
+<TRACK
+  NAME Reference
+  PEAKCOL 16576
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 1 0 0
+  IPHASE 0
+  PLAYOFFS 0 1
+  ISBUS 0 0
+  BUSCOMP 0 0 0 0 0
+  SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+  FREEMODE 0
+  REC 0 0 0 0 0 0 0
+  VU 2
+  TRACKHEIGHT 113 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {0EB629A9-85AC-4CFA-AD8E-65DEB0916323}
+  PERF 0
+  UNDO_HAS_TRACKENV
+  MIDIOUT -1
+  MAINSEND 0 0
+  HWOUT 0 0 1 0 0 0 0 -1:U -1
+  <FXCHAIN
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS utility/volume ""
+      -5.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 1944 52 505 133
+    FXID {C8479FF2-8D9A-474F-80DC-42AFA42968B5}
+    WAK 0 0
+  >
+>
